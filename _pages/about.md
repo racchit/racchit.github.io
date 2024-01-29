@@ -5,7 +5,7 @@ permalink: /
 subtitle: Security and Privacy | ML | Distributed Systems
 profile:
   align: right
-  image: racchit
+  image: racchit.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NUS, BITS Pilani</p>
